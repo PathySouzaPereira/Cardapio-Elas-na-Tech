@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html lang="EN">
+<head>
+    <meta charset="UTF-8">
+<title> ELAS NA TECH ITALIAN </title>
+</head>
+<body>
+<h1>Menu</h1>
+<p id="msg">TIPOS DE MASSAS:</p>
+<ul>
+<li class="list">SPAGUETTE A BOLONHESA</li>
+<li class="list">TALHARIN AO  MOLHO DE 4 QUEIJOS </li>
+<li class="list">LASANHA VEGETARIANA</li>  
+</ul>
+</body>
+</html>
